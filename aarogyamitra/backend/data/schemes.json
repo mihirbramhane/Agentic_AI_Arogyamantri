@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ayushman Bharat PM-JAY",
+    "state": "ALL",
+    "authority": "National Health Authority, Govt of India",
+    "coverage_amount": "Up to Rs 5,00,000 per family per year",
+    "income_ceiling": 300000,
+    "notes": "SECC-based eligibility; covers secondary and tertiary hospitalisation at empanelled hospitals.",
+    "verify_url": "https://pmjay.gov.in"
+  },
+  {
+    "name": "Aarogyasri (Rajiv Aarogyasri)",
+    "state": "Telangana",
+    "authority": "Telangana State Aarogyasri Health Care Trust",
+    "coverage_amount": "Cashless treatment for listed procedures",
+    "income_ceiling": 500000,
+    "notes": "For white ration card holders; cashless at network hospitals.",
+    "verify_url": "https://www.aarogyasri.telangana.gov.in"
+  },
+  {
+    "name": "Chief Minister's Relief Fund (medical)",
+    "state": "ALL",
+    "authority": "Respective State Government",
+    "coverage_amount": "Discretionary financial assistance",
+    "income_ceiling": 250000,
+    "notes": "One-time assistance for serious illness; process varies by state.",
+    "verify_url": ""
+  },
+  {
+    "_disclaimer": "SEED / ILLUSTRATIVE DATA ONLY. Replace income ceilings, coverage and eligibility with current official figures before any real use. Do not present these numbers to users as authoritative."
+  }
+]

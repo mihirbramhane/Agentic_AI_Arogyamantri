@@ -1,0 +1,21 @@
+# Secrets
+.env
+.env.local
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# RAG store
+backend/data/chroma/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# OS
+.DS_Store
